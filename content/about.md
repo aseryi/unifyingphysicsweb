@@ -9,13 +9,24 @@ ShowWordCount: false
 hideAuthor: true
 ---
 
-The design, construction, and future upgrades of the EIC present exciting scientific and technical challenges, creating opportunities for a closely connected global accelerator R&D community. The EIC Accelerator Collaboration will help realize the full potential of these opportunities, benefiting the EIC project, its collaboration partners, and the wider accelerator community, while also maximizing the long-term performance of the EIC facility.
 
-The EIC Accelerator Collaboration was launched in 2024 at the IPAC kick-off meeting, with the goals outlined above in mind.
+This web site serves as a collection of resources (texts, reviews, lecture materials) related to the book “Unifying Physics of Accelerators, Lasers and Plasma (first edition, CRC Press 2015)”, as well as to the  second edition (CRC Press 2023).
 
-The EICAC is led by two co-chairs—an international co-chair and a project co-chair—and its structure includes the Institutional Collaboration Board, which currently represents more than 20 institutions worldwide. The EICAC Charter is available [here](https://indico.jlab.org/event/834/) and the structure of the ICB will be available here (the link to Indico page will be added).
+The first edition is now in Open Access, thanks to CERN “eBooks for all” efforts which selects popular books in accelerator science and work with the publishers to convert them to Open Access.
 
-Originally co-chaired by [Prof. Carsten Welsch](https://www.liverpool.ac.uk/people/carsten-welsch) of the University of Liverpool, who served as the inaugural international co-chair until October 2024, the international co-chair position is now held by [Prof. Tatiana Pieloni](https://people.epfl.ch/tatiana.pieloni?lang=en) from École Polytechnique Fédérale de Lausanne. [Andrei Seryi](https://www.jlab.org/people/andrei_seryi_associate_director_accelerator_operations_research_and_development) from Jefferson Lab serves as the co-chair representing the EIC project. 
+You are welcome to read the book, study the reviews, learn more about the authors, or watch video podcast or study the lecture materials. Enjoy!
+
+The work on the second edition has now finished. It will add several new chapters, including scientific illustrations of 40 inventive principles, a solution manual, and will be featuring color illustrations for the eBook version.
 
 
-![Alt text](images/diagram1.jpg)
+![Second edition arrived](images/we-with-book-20230315-lowres.jpg)
+
+
+Paperback, hardcover and Kindle versions of 2nd Edition are available! Check them out at Amazon! eBook version (with color illustrations!) arrived – preview at Routledge!
+
+Contains more than 380 illustrations and numerous end-of-chapter exercises.
+
+Solutions manual is included into the book. The eBook/Kindle is published in full color.
+
+
+

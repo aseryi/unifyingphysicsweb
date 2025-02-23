@@ -1,7 +1,7 @@
 ---
-title: "Working Groups"
+title: "Reviews"
 url: "/reviews"
-summary: "Working groups"
+summary: "Reviewa"
 disableShare: true
 
 ShowReadingTime: false
@@ -9,13 +9,34 @@ ShowWordCount: false
 hideAuthor: true
 ---
 
-Welcome to the EICAC Working Groups page! Here, you can access materials and links for both active Working Groups and those we plan to launch. If you would like to join a Working Group, please contact the EICAC co-chairs or the WG leaders listed below.
-- Beam-beam - [Christoph Montag](mailto:montagc@bnl.gov) - [WG Indico](https://indico.global/category/1222/)
-- Polarized Beams & Polarimetry - [Frank Rathmann](mailto:frathmann@bnl.gov) & [Georg Hoffstaetter](mailto:georg.hoffstaetter@cornell.edu) - [WG Indico](https://indico.global/category/1222/)
-- Commissioning Tools - [Yue Hao](mailto:haoyue@msu.edu) and [Jean-Luc Vay](mailto:jlvay@lbl.gov) - [WG Indico](https://indico.global/category/1222/)
-- Second Interaction Region – recruiting group leaders and members
-- High Energy Beam Cooling – recruiting group leaders and members
-- FCC-EIC Forum – recruiting group leaders and members
-- More WGs are coming
+CERN Courier
+
+Review of the “Unifying Physics…” 2nd Edition by Edda Gschwendtner, CERN.
+
+“…With its accessible explanations, cutting-edge research coverage, and compelling arguments for interdisciplinary collaboration, this is an indispensable resource for physicists, researchers and students alike.” – read more following the link
+Read more
+CERN Courier
+
+Review of the “Unifying Physics…” 1st edition by Robert Bingham, University of Strathclyde, Glasgow.
+
+“…This book is, to my knowledge, the first to bridge the three disciplines of accelerators, lasers and plasmas. It fills a gap in the market and helps in developing a better understanding of the concepts used in the quest to build compact accelerators. It is an inspiring read that is suitable for both undergraduate and graduate students, as well as researchers…”
+Read more
+Physics Today
+
+Review of the “Unifying Physics…” 1st edition by Sekazi Mtingwa, Triangle Science, Education & Economic Development, LLC.
+
+“…Many books provide cut-and-dried problems that have definite quantitative solutions. However, with his end-of-chapter exercises Seryi takes an unusual approach. He offers thoughtful exercises with open-ended solutions that should provoke engaging discussions followed by in-depth analyses. Thus, wrestling with the exercises mimics the work of actual researchers. An excellent example is the problem that asks students to define approximate parameters of a second-generation synchrotron radiation source that produces 10-keV photons….”
+Read more
+More editorial reviews
+
+Reviews for the 1st edition of “Unifying Physics…” book
+
+“With Unifying Physics of Accelerators, Lasers and Plasma, Andrei Seryi has written a fascinating account. … The book makes a bold and visionary pledge, which it claims could, if successful, transform science and our daily lives. Finally, the author’s intention not only to unify accelerator, laser and plasma physics but also to accelerate the creation of novelty in science shows inspiring ways ahead. … Andrei Seryi has written an important, insightful and visionary book. … With his impressive wealth and breadth of knowledge, his mastery of the underlying quantitative formulation and an outstanding ability to connect not only dots but entire domains, there is a lot one can learn from this book and quite likely also from the author himself.” ―The TRIZ Journal, March 2016
+
+“A must-read book for college seniors and graduate students interested in cutting-edge topics in accelerator and beam physics. This field has become truly multidisciplinary where lasers and plasmas are featuring very prominently in new ideas for particle acceleration, focusing, and new light sources. Professor Seryi has covered the essential fundamentals of accelerators, lasers, and plasmas to prepare students for their research careers in modern science of particle accelerators.” ―Professor Chandrashekhar Joshi, University of California, Los Angeles
+
+“A wonderful source of inspiration for experts and novices alike, Andrei Seryi’s book takes the reader on a fascinating journey from the beginning of accelerator science to today’s most active research frontiers. Beside many other exciting topics, in this concise and enjoyable work, Seryi reviews the key elements of classical accelerators, beam optics, radiofrequency acceleration and technology, synchrotron radiation, beam instabilities, x-ray free-electron lasers, plasma acceleration, cancer therapy, advanced beam manipulation methods, and concepts of high-energy colliders, while frequently taking glimpses into the future. In this gem, Seryi, for the first time, discusses the three areas of accelerators, lasers, and plasmas from a unified perspective. … The tantalizing reading experience is enhanced by many original and ingenious illustrations. …” ―Frank Zimmermann, Senior Scientist, Beams Department, European Organization for Nuclear Research (CERN), and Editor of Physical Review Special Topics – Accelerators and Beams (PRST-AB)
+
+“This is a fun book to read, as well as educational. It is a textbook for a cross-disciplinary course, but it is also perfectly suitable for self-study. Its contents are quite unique and of interest for students preparing for research in a very promising and growing direction. … Instead of detailed technical mathematics and derivations, this book emphasizes the underlying physics that advances concepts, supplemented by a large number of vivid illustrations. … It encourages and challenges readers to look for their own inventions. … The author also offers his answer to the theory of inventive problem solving (TRIZ) exercise while challenging readers to do the same on their own. This is a very future-oriented book. For readers, be inspired, be challenged, and happy inventing!” ―Alex Chao, Professor, SLAC National Accelerator Laboratory, Stanford University, California, USA
 
 ![Alt text](images/diagram1.jpg)
