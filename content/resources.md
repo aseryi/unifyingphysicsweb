@@ -1,6 +1,6 @@
 ---
 title: "Working Groups"
-url: "/wg"
+url: "/resources"
 summary: "Working groups"
 disableShare: true
 

@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: UNI2
-  description: "UNI2 description - this appears on search engines"
+  title: Unifying Physics
+  description: "Unifying Physics book - this appears on search engines"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -52,28 +52,28 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "EICAC"
+    text: "Unifying Physics"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: EIC Accelerator Collaboration
-    subtitle: "Welcome to the Electron-Ion Collider Accelerator Collaboration webpage! The EICAC is a growing team, comprising more than twenty institutions around the globe and united by a shared interest in realizing the full potential of the EIC and its future upgrades. On this page, you will find information about the collaboration’s purpose and structure, including details on the Institutional Collaboration Board, Working Groups, and the latest collaboration news."  
-    imageUrl: images/home-square.png
-    imageWidth: 300
-    imageHeight: 300
-    imageTitle: Electron-Ion collisions
+    title: How to Invent in Science
+    subtitle: "Unifying Physics of Accelerators, Lasers and Plasma introduces these three areas of physics in tandem with TRIZ – the industrial methodology of inventiveness. The book shows how TRIZ-inspired, yet adjusted for science approach, helps to amalgamate and link different areas of science, enhancing creativity and boosting inventiveness. Unifying Physics is more than a book, it is a unique approach that builds bridges of understanding and enhances connections between different areas of physics and technology, which are essential for developing the next generations of scientific instruments."  
+    imageUrl: images/uni-cover-web-1024x377.jpg
+    imageWidth: 2000
+    imageHeight: 2000
+    imageTitle: Unifying Physics book cover
     buttons:
       - name: About
         url: about
-      - name: WG
-        url: wg 
-      - name: News
-        url: news 
-      - name: Contact
-        url: contact 
+      - name: Authors
+        url: authors 
+      - name: Resources
+        url: resources 
+      - name: Reviews
+        url: reviews 
   
   math: true
 
@@ -125,17 +125,17 @@ menu:
       name: About
       url: /about
       weight: 10
-    - identifier: contact
-      name: Contact
-      url: /contact
+    - identifier: authors
+      name: Authors
+      url: /authors
       weight: 10
-    - identifier: wg
-      name: Working Groups
-      url: /wg
+    - identifier: resources
+      name: Resources
+      url: /resources
       weight: 10
-    - identifier: news
-      name: News
-      url: /news
+    - identifier: reviews
+      name: Reviews
+      url: /reviews
       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
