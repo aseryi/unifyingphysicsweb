@@ -1,6 +1,6 @@
-baseURL: "https://aseryi.github.io"
+baseURL: "https://unifyingphysics.github.io/"
 title: Unifying Physics
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
