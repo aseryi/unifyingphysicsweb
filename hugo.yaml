@@ -1,5 +1,5 @@
-baseURL: "https://eicac.github.io"
-title: EICAC
+baseURL: "https://aseryi.github.io"
+title: Unifying Physics
 paginate: 5
 theme: PaperMod
 
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: EICAC
-  description: "EICAC description - this appears on search engines"
+  title: UNI2
+  description: "UNI2 description - this appears on search engines"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
