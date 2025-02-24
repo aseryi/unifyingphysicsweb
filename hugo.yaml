@@ -69,11 +69,11 @@ params:
       - name: About
         url: about
       - name: Authors
-        url: authors 
+        url: authors
       - name: Resources
-        url: resources 
+        url: resources
       - name: Reviews
-        url: reviews 
+        url: reviews
   
   math: true
 
