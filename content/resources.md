@@ -21,13 +21,6 @@ You can download the “Unifying Physics…” first edition as PDF file or read
 
 ---
 
-Alternatively, you can get **Kindle version** of the eBook at Amazon: [Get Kindle eBook](https://www.amazon.com/Unifying-Physics-Accelerators-Lasers-Plasma-ebook/dp/B0116R47LS/) 
-
-![Image of a Kindle version of the Unifying Physics book](images/Screenshot_Kindle-461x1024-third.jpg)
-
-
----
-
 **Science and the Art of Inventiveness**. Podcast of 2014 lecture in the University of Oxford.
 [View Video](https://podcasts.ox.ac.uk/science-and-art-inventiveness)
 
@@ -66,7 +59,7 @@ Could a methodology used for invention in engineering find a role in guiding the
 
 **US Particle Accelerator School**
 
-USPAS 2016 lectures “Unifying Physics of Accelerators, Lasers and Plasma – Synergy and Bridges”, homework tasks, exam tasks. See also this [newsline](https://www.adams-institute.ac.uk/uspas-praising-jai) and connect it with inspiring comments in Mtingwa‘s review.
+This all started at [USPAS 2014](https://www.adams-institute.ac.uk/new-training-course-connecting-science-industrial-art-inventiveness) and continued at USPAS 2016 - see lectures “Unifying Physics of Accelerators, Lasers and Plasma – Synergy and Bridges”, homework tasks, exam tasks. Also check out this [newsline](https://www.adams-institute.ac.uk/uspas-praising-jai-training-methods) and connect it with inspiring comments in Mtingwa‘s review (see Reviews section).
 [Read more](https://uspas.fnal.gov/materials/16CSU/CSU-UnifyingPhysics.shtml)
 ![USPAS](images/USPAS.png)
 
