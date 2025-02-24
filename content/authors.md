@@ -1,7 +1,7 @@
 ---
-title: "Contact"
+title: "Authors"
 url: "/authors"
-summary: "Contact page"
+summary: "Authorse"
 disableShare: true
 
 ShowReadingTime: false
@@ -9,13 +9,19 @@ ShowWordCount: false
 hideAuthor: true
 ---
 
-Elena Seraia
-Photo of Elena Seraia
+**Elena Seraia**
+![Photo of Elena Seraia](images/e-seraia-book-color.jpg)
 
-Until 2018 Elena Seraia was working in the Medical Department of the University of Oxford, in the group of Radiation Oncology and Biology, aimed at finding ways of comprehensive cancer treatment (e.g. pubmed21, pubmed22), and prior to that worked in SFGF (Stanford Functional Genomics Facility) of the Medical Department at Stanford University, in the group which was the first one to develop the principle of contact printing of oligonucleotide DNA microarrays (Stanford report). Elena is the key contributor to the 1st edition of the Unifying Physics book, via creating of more than 260 illustrations, and contributing to the chapter on the DNA effects of radiation and cancer therapy.
+Until 2018 Elena Seraia was working in the Medical Department of the University of Oxford, in the group of [Radiation Oncology and Biology](https://www.oncology.ox.ac.uk/), aimed at finding ways of comprehensive cancer treatment (e.g. [pubmed21](https://pubmed.ncbi.nlm.nih.gov/33509941/), [pubmed22](https://pubmed.ncbi.nlm.nih.gov/34773074/)), and prior to that worked in [SFGF](https://med.stanford.edu/sfgf.html) (Stanford Functional Genomics Facility) of the [Medical Department at Stanford University](https://med.stanford.edu/), in the group which was the first one to develop the principle of contact printing of oligonucleotide DNA microarrays ([Stanford report](https://news.stanford.edu/news/2002/march6/microarray.html)). Elena is the key contributor to the 1st edition of the Unifying Physics book, via creating of more than 260 illustrations, and contributing to the chapter on the DNA effects of radiation and cancer therapy.
 
-Andrei Seryi
+[LinkedIn](https://www.linkedin.com/in/elena-seraia/)
 
-Associate director for accelerators operations and R&D at Jefferson Lab and until 2018 director of the John Adams Institute and a professor at Oxford University. Worked at Stanford Linear Accelerator Center until 2010. Contributed to development of linear colliders and plasma acceleration. Fellow of American Physical Society. His professional interests include development of accelerator science applications to discovery science, industry, healthcare and energy; organizing of scientific research; project management; inventions and innovations; and developing novel training approaches and methods.
+---
 
-![Alt text](images/diagram1.jpg)
+**Andrei Seryi**
+![Photo of Andrei Seryi](images/a-seryi-book-color-997x1024.jpg)
+
+
+Associate director for accelerators operations and R&D at [Jefferson Lab](https://www.jlab.org/about/leadership/ad-accelerator) and until 2018 [director](https://www.interactions.org/press-release/new-director-john-adams-institute-accelerator-science) of the [John Adams Institute](https://www.adams-institute.ac.uk/news/new-director-takes-over-john-adams-institute) and a professor at Oxford University. Worked at Stanford Linear Accelerator Center until 2010. Contributed to development of [linear colliders](https://web.ornl.gov/info/news/pulse/archive_issues/pulse_v187_05.htm) and [plasma acceleration](https://www.symmetrymagazine.org/article/october-2009/crashing-the-size-barrier). Fellow of American Physical Society. His professional interests include development of accelerator science applications to discovery science, industry, healthcare and energy; organizing of scientific research; project management; inventions and innovations; and developing novel training approaches and methods.
+
+[LinkedIn](https://www.linkedin.com/in/andrei-seryi/)     [Google Scholar](https://scholar.google.com/citations?user=7x_nM2IAAAAJ&hl=en)
