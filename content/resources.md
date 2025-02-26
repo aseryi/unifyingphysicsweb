@@ -21,14 +21,16 @@ You can download the “Unifying Physics…” first edition as PDF file or read
 
 ---
 
-**Science and the Art of Inventiveness**. Podcast of 2014 lecture in the University of Oxford.
+### Science and the Art of Inventiveness. 
+
+Podcast of 2014 lecture in the University of Oxford.   
 [View Video](https://podcasts.ox.ac.uk/science-and-art-inventiveness)
 
 ![Podcast of lecture in Oxford](images/ox-podcast.png)
 
 ---
 
-**Physics today: Questions and Answers with Andrei Seryi**
+### Physics today: Questions and Answers with Andrei Seryi
 
 “…the primary target audience is students and postdocs, who are starting to work on advanced concepts of accelerator science. The book will give them concrete knowledge and will also make them more inventive through this robust methodology of inventiveness. If indeed I would need to formulate the primary message of the book in one phrase, I would perhaps say that the book tells the reader, “You can invent,” and it gives the knowledge and methods to support that message…”
 [Read more at Physics Today](https://physicstoday.scitation.org/do/10.1063/pt.5.3038/full/)
@@ -38,7 +40,7 @@ You can download the “Unifying Physics…” first edition as PDF file or read
 
 ---
 
-**EuroScientist: Can Inventiveness in Science be Taught?**
+### EuroScientist: Can Inventiveness in Science be Taught?
 
 The nested doll shown together with the schematics of laser pulses profiles used in the Stimulated Emission Depletion Microscopy (STED, which led Stefan W. Hell to receive the 2014 Nobel Prize in Chemistry), where the TRIZ inventive principles of the nested doll and of the system/anti-system can be seen.
 [Read more](https://www.euroscientist.com/can-inventiveness-in-science-be-taught/)
@@ -47,7 +49,7 @@ The nested doll shown together with the schematics of laser pulses profiles used
 
 ---
 
-**CERN Courier 2015: Inventing our future accelerator.**
+### CERN Courier 2015: Inventing our future accelerator.
 
 Could a methodology used for invention in engineering find a role in guiding the innovative process that will be essential for future large-scale accelerator projects?
 [Read more](https://cds.cern.ch/record/2232507/files/vol55-issue8-p023-e.pdf)
@@ -57,7 +59,7 @@ Could a methodology used for invention in engineering find a role in guiding the
 
 ---
 
-## US Particle Accelerator School {#uspas2016}
+### US Particle Accelerator School {#uspas2016}
 
 This all started at [USPAS 2014](https://www.adams-institute.ac.uk/new-training-course-connecting-science-industrial-art-inventiveness) and continued at USPAS 2016 - see lectures “Unifying Physics of Accelerators, Lasers and Plasma – Synergy and Bridges”, homework tasks, exam tasks. Also check out this [newsline](https://www.adams-institute.ac.uk/uspas-praising-jai-training-methods) and connect it with inspiring comments in Mtingwa‘s review (see Reviews section).
 [Read more](https://uspas.fnal.gov/materials/16CSU/CSU-UnifyingPhysics.shtml)
@@ -77,7 +79,7 @@ On the photo Marlene Turner is giving the talk at North American Particle Accele
 
 ---
 
-**NA-PAC 2022 tutorial**{#napac2022}
+### NA-PAC 2022 tutorial {#napac2022}
 
 Tutorial presented at 2022 North American Particle Accelerator Conference (NA-PAC), August 7-12, 2022 in Albuquerque. Title: “Accelerator Science and Technology via Inventive Principles of TRIZ”. Abstract: A swift overview of modern areas of accelerator physics and technology presented via and connected through inventive principles of TRIZ – the industrial methodology of inventiveness. Wide range of topics, from synchrotron radiation to electron cooling, or plasma acceleration, to name a few, introduced via easy to follow back-of-the-envelope derivations, and connected via canonical yet adjusted for science TRIZ inventive principles and laws, are illustrated by numerous inventions such as fiber lasers, tune jumps, inverted guns, and many others. This short tutorial is a gateway opening to you a new approach, which creates an amalgam of science and industrial inventiveness, enhances creativity and boosts innovations towards developing the next generations of accelerators and their applications.
 [See slides](https://www.dropbox.com/s/ovf7i8ipo9q13wt/NAPAC22-Seryi-r2-lowres.pdf?dl=0)
@@ -86,7 +88,7 @@ Tutorial presented at 2022 North American Particle Accelerator Conference (NA-PA
 
 ---
 
-**VITA graduate course, autumn 2022**{vita2022}
+### VITA graduate course, autumn 2022 {#vita2022}
 
 Lecture 1, Aug 30. [Slides PDF](https://www.dropbox.com/s/zehxoiwdzg5jpn4/Unifying22-Seryi-L01.pdf?dl=0). [Video MP4](https://www.dropbox.com/s/2wf0tqcoa2i9pc5/Unifying22-Seryi-L01.mp4?dl=0).  
 Lecture 2, Sep 1. [Slides PDF](https://www.dropbox.com/s/twm8i966pull775/Unifying22-Seryi-L02.pdf?dl=0). [Video MP4](https://www.dropbox.com/s/7rfp58aw1cs0cob/Unifying22-Seryi-L02.mp4?dl=0).  
@@ -123,7 +125,7 @@ Lecture 26, Dec 8, [Slides PDF](https://www.dropbox.com/s/21bqflm0bvdu8fv/Unifyi
 
 ---
 
-**US Particle Accelerator School, June 12-16, 2023**{uspas2023}
+### US Particle Accelerator School, June 12-16, 2023 {#uspas2023}
 
 USPAS 2023, lectures, homework, mini-projects.
 [Course description](https://uspas.fnal.gov/programs/2023/melville/courses/unifying-physics.shtml). [Organizational matters](https://www.dropbox.com/s/knug0tfc002iffy/Unifying23-Seryi-L00%20%28Organization%29-r1.pdf?dl=0). [Class](https://uspas.smugmug.com/2023-MSU-Melville/Class-Photos/i-H4vNWXN) [photo](https://uspas.smugmug.com/2023-MSU-Melville/Class-Photos/i-H4vNWXN/A).  
@@ -139,7 +141,9 @@ Thursday lectures: [L10](https://www.dropbox.com/s/vg2yvyg9cs1td8x/Unifying23-Se
 
 ---
 
-**International Accelerator School: Superconducting Science and Technology for Particle Accelerators**, July 10-20, 2023 – [program](https://indico.lightsource.ca/event/6/){#ias2023}  
+### International Accelerator School: Superconducting Science and Technology for Particle Accelerators {#ias2023}
+
+Canada, July 10-20, 2023 – [program](https://indico.lightsource.ca/event/6/)  
 [Lecture 1](https://www.dropbox.com/scl/fi/6v1uu6r3z0t5ntmn4vue7/IAS-Unifying23-Seryi-L01.pdf?rlkey=am4vj8x2nk5chg2856dutwtr0&dl=0), 
 [Lecture 2](https://www.dropbox.com/scl/fi/r41d4qxzcrq4vdjmxbhse/IAS-Unifying23-Seryi-L02.pdf?rlkey=jcrde4c9p6k55d0qxcg0ha5z1&dl=0), 
 [Lecture 3](https://www.dropbox.com/scl/fi/kyyg15s8p83nvyhhz60kc/IAS-Unifying23-Seryi-L03.pdf?rlkey=2r3ai7qtu486do2nmaug77zaf&dl=0), 
@@ -150,7 +154,7 @@ Thursday lectures: [L10](https://www.dropbox.com/s/vg2yvyg9cs1td8x/Unifying23-Se
 
 ---
 
-**US Particle Accelerator School, February 5, 2025**{#uspas2025}
+### US Particle Accelerator School, February 5, 2025 {#uspas2025}
 
 USPAS 2025, lecture “Structured inventions”
 given to [“Strategic Management of Research Labs”](https://uspas.fnal.gov/programs/2025/knoxville/courses/strategic-management.shtml) course.  
