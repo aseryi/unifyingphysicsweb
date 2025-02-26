@@ -21,7 +21,7 @@ You can download the “Unifying Physics…” first edition as PDF file or read
 
 ---
 
-### Science and the Art of Inventiveness. 
+### Science and the Art of Inventiveness. {#oxford2014}
 
 Podcast of 2014 lecture in the University of Oxford.   
 [View Video](https://podcasts.ox.ac.uk/science-and-art-inventiveness)
@@ -30,7 +30,7 @@ Podcast of 2014 lecture in the University of Oxford.
 
 ---
 
-### Physics today: Questions and Answers with Andrei Seryi
+### Physics today: Questions and Answers with Andrei Seryi {#phystoday2016}
 
 “…the primary target audience is students and postdocs, who are starting to work on advanced concepts of accelerator science. The book will give them concrete knowledge and will also make them more inventive through this robust methodology of inventiveness. If indeed I would need to formulate the primary message of the book in one phrase, I would perhaps say that the book tells the reader, “You can invent,” and it gives the knowledge and methods to support that message…”
 [Read more at Physics Today](https://physicstoday.scitation.org/do/10.1063/pt.5.3038/full/)
@@ -40,7 +40,7 @@ Podcast of 2014 lecture in the University of Oxford.
 
 ---
 
-### EuroScientist: Can Inventiveness in Science be Taught?
+### EuroScientist: Can Inventiveness in Science be Taught? {#eurosci2015}
 
 The nested doll shown together with the schematics of laser pulses profiles used in the Stimulated Emission Depletion Microscopy (STED, which led Stefan W. Hell to receive the 2014 Nobel Prize in Chemistry), where the TRIZ inventive principles of the nested doll and of the system/anti-system can be seen.
 [Read more](https://www.euroscientist.com/can-inventiveness-in-science-be-taught/)
@@ -49,7 +49,7 @@ The nested doll shown together with the schematics of laser pulses profiles used
 
 ---
 
-### CERN Courier 2015: Inventing our future accelerator.
+### CERN Courier 2015: Inventing our future accelerator. {#cern2015}
 
 Could a methodology used for invention in engineering find a role in guiding the innovative process that will be essential for future large-scale accelerator projects?
 [Read more](https://cds.cern.ch/record/2232507/files/vol55-issue8-p023-e.pdf)
