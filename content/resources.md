@@ -57,7 +57,7 @@ Could a methodology used for invention in engineering find a role in guiding the
 
 ---
 
-**US Particle Accelerator School**{#uspas2016}
+<h2 id="uspas2016">US Particle Accelerator School</h2>
 
 This all started at [USPAS 2014](https://www.adams-institute.ac.uk/new-training-course-connecting-science-industrial-art-inventiveness) and continued at USPAS 2016 - see lectures “Unifying Physics of Accelerators, Lasers and Plasma – Synergy and Bridges”, homework tasks, exam tasks. Also check out this [newsline](https://www.adams-institute.ac.uk/uspas-praising-jai-training-methods) and connect it with inspiring comments in Mtingwa‘s review (see Reviews section).
 [Read more](https://uspas.fnal.gov/materials/16CSU/CSU-UnifyingPhysics.shtml)
