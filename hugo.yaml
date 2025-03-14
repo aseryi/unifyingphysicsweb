@@ -139,6 +139,10 @@ menu:
       name: Reviews
       url: /reviews
       weight: 20
+    - identifier: memory
+      name: Memory
+      url: /memory
+      weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
