@@ -1,7 +1,7 @@
 ---
 title: "Reviews"
 url: "/reviews"
-summary: "Reviewa"
+summary: "Reviews of the book Unifying Physics of Accelerators, Lasers and Plasma"
 disableShare: true
 
 ShowReadingTime: false

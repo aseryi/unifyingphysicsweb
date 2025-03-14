@@ -1,7 +1,7 @@
 ---
 title: "About"
 url: "/about"
-summary: "About page"
+summary: "Summary about Unifying Physics of Accelerators, Lasers and Plasma book, and its authors"
 disableShare: true
 
 ShowReadingTime: false

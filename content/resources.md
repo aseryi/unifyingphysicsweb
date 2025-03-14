@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 url: "/resources"
-summary: "Resources"
+summary: "Resources: lectures, slides, videos for Unifying Physics of Accelerators, Lasers and Plasma"
 disableShare: true
 
 ShowReadingTime: false

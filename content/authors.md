@@ -1,7 +1,7 @@
 ---
 title: "Authors"
 url: "/authors"
-summary: "Authorse"
+summary: "Authors of the book Unifying Physics of Accelerators, Lasers and Plasma"
 disableShare: true
 
 ShowReadingTime: false
