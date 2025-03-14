@@ -74,6 +74,8 @@ params:
         url: resources
       - name: Reviews
         url: reviews
+      - name: Memory
+        url: memory
   
   math: true
 
