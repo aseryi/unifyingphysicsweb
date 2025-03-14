@@ -25,3 +25,9 @@ Until 2018 Elena Seraia was working in the Medical Department of the University 
 Associate director for accelerators operations and R&D at [Jefferson Lab](https://www.jlab.org/about/leadership/ad-accelerator) and until 2018 [director](https://www.interactions.org/press-release/new-director-john-adams-institute-accelerator-science) of the [John Adams Institute](https://www.adams-institute.ac.uk/new-director-takes-over-john-adams-institute) and a professor at Oxford University. Worked at Stanford Linear Accelerator Center until 2010. Contributed to development of [linear colliders](https://web.ornl.gov/info/news/pulse/archive_issues/pulse_v187_05.htm) and [plasma acceleration](https://www.symmetrymagazine.org/article/october-2009/crashing-the-size-barrier). Fellow of American Physical Society. His professional interests include development of accelerator science applications to discovery science, industry, healthcare and energy; organizing of scientific research; project management; inventions and innovations; and developing novel training approaches and methods.
 
 [LinkedIn](https://www.linkedin.com/in/andrei-seryi/)     [Google Scholar](https://scholar.google.com/citations?user=7x_nM2IAAAAJ&hl=en)
+
+---
+
+**Physicist and Biologist: High Energy Pair**
+
+See an article about us [in Science First Hands](https://scfh.ru/en/papers/physicist-and-biologist-high-energy-pair/)
