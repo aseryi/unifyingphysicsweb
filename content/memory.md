@@ -1,7 +1,7 @@
 ---
 title: "Memory"
 url: "/memory"
-summary: "Memory"
+summary: "From Structured Invention in Accelerators to Memory Mechanisms, a New H.M. Patient , and a Call for Future Nobel Prize Winners - colloquium"
 disableShare: true
 
 ShowReadingTime: false
