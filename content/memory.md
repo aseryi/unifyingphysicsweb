@@ -13,4 +13,4 @@ hideAuthor: true
 ![Colloquium March 20, 2025](images/colloquium-march-20-2025.png)
 
 
-Many thanks to everyone who joined us in-person or online on March 20, 2025, for our colloquium. And thanks to many who sent nice and kind words of support. For details about the event - see [Jefferson Lab Colloquium](https://www.jlab.org/conference/colloquium-seryi-seraia)
+Many thanks to everyone who joined us in-person or online on March 20, 2025, for our colloquium! And thanks to many who sent nice and kind words of support. For details about the event - see [Jefferson Lab Colloquium](https://www.jlab.org/conference/colloquium-seryi-seraia)
